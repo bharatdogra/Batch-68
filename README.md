@@ -1,5 +1,4 @@
 # Bharat Dogra
-Student of Batch 68
 Python Done
 Learning DataScience
 Learning Statistics
